@@ -42,7 +42,7 @@
 
 
 
-# GenerateHtml("h1", "Akiola")
+# GenerateHtml("p", "value")
 # GenerateHtml("p", "this is a title")
 
 
@@ -59,10 +59,10 @@
 # print(Area, "m2")
 
 
-def CalculateDivision(num1, num2):
-    if(num2 != 0):
-        return num1/num2
+# def CalculateDivision(num1, num2):
+#     if(num2 != 0):
+#         return num1/num2
 
-answer = CalculateDivision(5,2)
+# answer = CalculateDivision(5,2)
 
-print(answer)
+# print(answer)
