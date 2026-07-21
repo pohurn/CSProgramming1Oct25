@@ -12,17 +12,17 @@
 #example 1:
 
 # range(5) generates numbers 0 to 4
-#0 1 2 3 4
+# 0 1 2 3 4
 # for number in range(5):
-    #This line runs once for every number
-    # print("Happy")
-    # print(number)
+#     # This line runs once for every number
+#     print("Happy")
+#     print(number)
 
 #example 2:
 
 # range(1, 5) generates numbers 1 to 4
-#1 2 3 4
-# for number in range(1, 5):
+# 1 2 3 4
+# for number in range(1, 5): # 5-1 = 4 ; so it's going to print 4 times
 #     print(number)
 
 #example 3:
@@ -41,12 +41,14 @@
 # for letter in word:
 #     print(letter)
 
+# print("We're out of the loop")
+
 
 #example 5:
 
 #for multiplication from 1 to 10
 
-number = 5
+# number = 5
 # for multiplier in range(1, 11):
 #     ans = number * multiplier
 #     print(number, "X", multiplier, "=", ans)
@@ -61,7 +63,7 @@ number = 5
 # number = 1
 # while number <= 5:
 #     print(number)
-#     number = number +1
+#     number = number + 1
 
 
 # example 2:
