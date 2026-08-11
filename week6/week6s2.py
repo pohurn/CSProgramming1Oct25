@@ -2,9 +2,9 @@
 # OBJECT ORIENTED PROGRAMMING
 
 #1. Inheritance - ok
-#2. Polymorphism - 
-#3. Encapsulation
-#4. Abstraction
+#2. Polymorphism - ok
+#3. Encapsulation - ok
+#4. Abstraction - 
 
 # polymorphism => one thing can take many forms
 
